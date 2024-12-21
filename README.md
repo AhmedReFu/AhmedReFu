@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nurul Islam Rimon</h1>
-<h3 align="center">A passionate MERN stack developer from Noakhali, Bangladesh.</h3>
+<h1 align="center">Hi 👋, I'm MD. NAZMUL ISLAM</h1>
+<h3 align="center">A passionate MERN stack developer from Feni, Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulislamrimon&label=Profile%20views&color=0e75b6&style=flat" alt="nurulislamrimon" /> </p>
 <img align="right" alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1kf-UG0Xec0d7XkxuY6IgykYSfHrONzIO"/>
 
-- 🔭 I’m currently working on **QPrint**
+//- 🔭 I’m currently working on **QPrint**
 
 - 🌱 I’m currently learning **Prisma, PostgreSQL**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React,Nextjs & MongoDB (Aggregation)**
 
-- 📫 How to reach me **nurulislamrimon@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
