@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulislamrimon&label=Profile%20views&color=0e75b6&style=flat" alt="nurulislamrimon" /> </p>
 <img align="right" alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1kf-UG0Xec0d7XkxuY6IgykYSfHrONzIO"/>
 
-//- 🔭 I’m currently working on **QPrint**
+//- 🔭 I’m currently working on **Learn FullStack**
 
 - 🌱 I’m currently learning **Prisma, PostgreSQL**
 
