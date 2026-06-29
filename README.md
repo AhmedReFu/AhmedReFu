@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://mdnazmulislam.pro.bd">
-    <img src="https://img.shields.io/badge/Portfolio-mdnazmulislam.pro.bd-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://mdnazmulislam.com">
+    <img src="https://img.shields.io/badge/Portfolio-mdnazmulislam.com-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=AhmedReFu&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views" />
 </p>
@@ -20,7 +20,7 @@ I am a passionate full-stack developer from Feni, Bangladesh, building real-worl
 - 🎯 I am growing toward **software engineering depth (system design, DSA) and data science**
 - 👯 I am open to **collaboration and freelance work**
 - 💬 Ask me about **React, React Native, Next.js and MongoDB (Aggregation)**
-- 🌐 Check out my work at **[mdnazmulislam.pro.bd](https://mdnazmulislam.pro.bd)**
+- 🌐 Check out my work at **[mdnazmulislam.com](https://mdnazmulislam.com)**
 - 📫 Reach me through any of the links below
 
 <br clear="right"/>
@@ -28,7 +28,7 @@ I am a passionate full-stack developer from Feni, Bangladesh, building real-worl
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://mdnazmulislam.pro.bd" target="_blank">
+  <a href="https://mdnazmulislam.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/md-nazmul-islam-human" target="_blank">
